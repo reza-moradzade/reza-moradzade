@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Reza 👋
 
-<!--
-**reza-moradzade/reza-moradzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior software developer with over 20 years of experience building business-critical applications using **C#**, **.NET**, and **SQL Server** — mostly within the automotive industry.
 
-Here are some ideas to get you started:
+🔧 I'm experienced in:
+- WinForms & Desktop UI
+- ASP.NET Core & Blazor
+- Vue.js (intermediate) & JavaScript
+- SQL Server (advanced) – schema design, procedures, optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently:
+- Learning Node.js and improving frontend skills
+
+📌 Side facts:
+- M.Sc. in IT Management | B.Sc. in Software Engineering (ZAB verified 🇩🇪)
+- Certified Level-3 Bodybuilding Coach 💪
+- Chess enthusiast ♟️ | Guitar player 🎸
+
+Let's connect!  
+📧 Email:  rs.moradzade@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/reza-moradzadeh-152364178
