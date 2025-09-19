@@ -1,21 +1,31 @@
-# Hi, I'm Reza 👋
+# Hi, I'm Reza 👋  
 
-I'm a senior software developer with over 20 years of experience building business-critical applications using **C#**, **.NET**, and **SQL Server** — mostly within the automotive industry.
+I'm a **Senior Software Developer** with over **15 years of experience** in developing **enterprise software** using **C#, .NET, and SQL Server** — and more than **20 years of experience in the automotive industry**.  
 
-🔧 I'm experienced in:
-- WinForms & Desktop UI
-- ASP.NET Core & Blazor
-- Vue.js (intermediate) & JavaScript
-- SQL Server (advanced) – schema design, procedures, optimization
+### 🔧 Skills & Technologies  
+- **Desktop & Legacy:** WinForms, VB6 (migration experience)  
+- **Backend:** ASP.NET Core Web API (advanced), Entity Framework  
+- **Frontend:** Blazor (intermediate), Vue.js (intermediate), JavaScript  
+- **Databases:** SQL Server (advanced: schema design, optimization, Stored Procedures), PostgreSQL (beginner)  
+- **Tools:** Git, TFS, Visual Studio, VS Code, Postman, Stimulsoft, pgAdmin  
 
-🚀 Currently:
-- Learning Node.js and improving frontend skills
+### 🚀 Currently  
+- Developing and learning **SPA applications with Vue.js**  
+- Learning **Nuxt.js + Node.js + PostgreSQL** for full-stack projects  
 
-📌 Side facts:
-- M.Sc. in IT Management | B.Sc. in Software Engineering (ZAB verified 🇩🇪)
-- Certified Level-3 Bodybuilding Coach 💪
-- Chess enthusiast ♟️ | Guitar player 🎸
+### 📂 Featured Projects  
+- [Office Automation (Hybrid WinForms + ASP.NET Core + Blazor)](Sample project coming soon)  
+- [Fitness Club Management (Blazor, responsive)](Sample project coming soon)  
+- [Vue.js SPA + ASP.NET Core API Sample](Sample project coming soon)  
 
-Let's connect!  
-📧 Email:  rs.moradzade@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/reza-moradzadeh-152364178
+### 🎓 Education & Certifications  
+- M.Sc. in IT Management  
+- B.Sc. in Software Engineering  
+- Certified Level-3 Bodybuilding Coach 💪  
+
+### 📌 Personal Interests  
+- Chess ♟️ | Guitar 🎸 | Fitness  
+
+### 📫 Contact  
+- **Email:** rs.moradzade@gmail.com  
+- **LinkedIn:** [linkedin.com/in/reza-moradzadeh-152364178](https://www.linkedin.com/in/reza-moradzadeh-152364178)  
