@@ -28,4 +28,4 @@ I'm a **Senior Software Developer** with over **15 years of experience** in deve
 
 ### 📫 Contact  
 - **Email:** rs.moradzade@gmail.com  
-- **LinkedIn:** [linkedin.com/in/reza-moradzade-152364178](https://www.linkedin.com/in/reza-moradzadeh-152364178)  
+- **LinkedIn:** [linkedin.com/in/reza-moradzade-152364178](https://www.linkedin.com/in/reza-moradzade-152364178)  
